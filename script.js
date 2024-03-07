@@ -19,8 +19,8 @@ function crt()
     {
         password+=allchars[Math.floor(Math.random() * allchars.length)];
     }
-    console.log(password); // Log the generated password to check its value
-    console.log(passbox); 
+    // console.log(password); // Log the generated password to check its value
+    // console.log(passbox); 
 
     passbox.value=password;
 
