@@ -25,9 +25,10 @@ function crt()
     passbox.value=password;
     
 }
-    function copypass()
-    {
-        passbox.select();
-        document.execCommand("copy");
-    }
+function copypass()
+{
+    passbox.select();
+    document.execCommand("copy");
+    alert("Password Copied!");
+}
 
