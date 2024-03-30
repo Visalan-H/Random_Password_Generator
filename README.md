@@ -17,12 +17,13 @@ Our password generator uses top-secret algorithms (okay, maybe not that secret. 
 ## How to Use
 
 2. Specify the length of your desired password.
-3. Click the "Generate Password" button.
+3. Click the "Generate" button.
 4. Copy your shiny new password and use it wherever you need!
 
 **Important Note**: While our passwords are designed to be super secure, it's still essential to practice good password hygiene. Don't share your passwords with anyone, and consider using a password manager to keep track of them safely. Stay safe out there! 🛡️🔒
 
 ## Final Result:
+
 1. Initial look:
 ![image](https://github.com/Visalan-H/Random_Password_Generator/assets/152077751/3ece9943-3d6d-40fa-840f-cd81760da636)
 
@@ -32,5 +33,5 @@ Our password generator uses top-secret algorithms (okay, maybe not that secret. 
 3.After clicking the copy button:
  ![image](https://github.com/Visalan-H/Random_Password_Generator/assets/152077751/6851858d-4d77-42e5-95ae-2d71e16f3a6d)
 
-
+## Disclaimer 😜:
 I will try not to use your passwords ;)
